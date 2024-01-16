@@ -1,0 +1,18 @@
+{
+  "events": [
+    {
+      "title": "New Event",
+      "image": "https://images.all-free-download.com/images/graphiclarge/sports_crowd_200155.jpg",
+      "date": "2023-08-24",
+      "description": "A good Event!",
+      "id": "97f3e090-d2c1-4f1e-9f7a-e5568452310c"
+    }
+  ],
+  "users": [
+    {
+      "email": "test@gmail.com",
+      "password": "$2a$12$Afc5iru05QqHAPR.FHGHguwkOug1oTATBrGVNX.sk2ozmgfte.4jC",
+      "id": "17616958-eff5-4f33-baf2-00447e893a86"
+    }
+  ]
+}

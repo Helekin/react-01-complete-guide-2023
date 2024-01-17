@@ -13,7 +13,13 @@ cd 07-easy-food-order-app
 npm install
 ```
 
-2. Run the application in development mode
+2. Rename the `.env.example` file to `.env` and add the following
+
+```sh
+REACT_APP_URL_API="your_firebase_client_uri"
+```
+
+3. Run the application in development mode
 
 ```sh
 npm run dev
